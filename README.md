@@ -1,2 +1,2 @@
-# Moja Bakalárska práca
+# Moja bakalárska práca
 ## Bezdrôtové senzorové siete
