@@ -4,4 +4,4 @@
 - stav prakticej casti: 25%
 - termin odovzdania: 22.04.2016
 
-zmena spravena lokalne
+zmena spravena lokalne je ta prava
