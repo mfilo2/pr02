@@ -1,1 +1,2 @@
-# pr02
+# Moja Bakalárska práca
+## Bezdrôtové senzorové siete
